@@ -1,3 +1,1 @@
-role,NetID,LastName,FirstName
-boss,jawalsh4,Walsh,Julie
-employee,ahn62,Ahn,Stella
+boss,ahn62,Ahn,Stella
